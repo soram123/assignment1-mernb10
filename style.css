@@ -1,0 +1,45 @@
+.icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+.icon1 {
+    position: relative;
+    top:20px;
+    right:50%;
+}
+#microsoft365 {
+    position: relative;
+    top:20px;
+    right:17%;
+}
+#devices{
+    position: relative;
+    top:20px;
+    
+}
+ a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.image {
+    display: flex;
+    direction: row;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+.image1{
+    width: 266px;
+    height: 150px
+}
+#new{
+    background-color: orange;
+    width:40px;
+    padding: 0.2em 0.3em;
+}
+
+.SpaceTop{
+  margin-top: 70px;
+}
